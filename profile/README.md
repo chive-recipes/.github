@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chive-recipes/chive/main/public/chive-logo.svg" alt="Chive Logo" width="120" height="120" />
+  <img src="chive-logo-full.png" alt="Chive Logo" height="120" />
   <h1>Chive</h1>
   <p><strong>A decentralized, lightweight recipe app built on the AT Protocol.</strong></p>
 </div>
