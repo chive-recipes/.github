@@ -21,6 +21,6 @@ We split Chive into distinct layers, keeping the public web interface completely
 
 We embrace open-source contributions, technical discussions, and ATProto integrations. If you're passionate about the federated web and cooking, come help us build the ultimate decentralized recipe network!
 
-- [Try Chive (Placeholder)](https://chive.pages.dev/)
+- [Try Chive](https://chive.pages.dev/)
 - [Read the Lexicon](#)
 - [Explore the code](https://github.com/chive-recipes/chive)
