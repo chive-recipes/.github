@@ -1,6 +1,5 @@
 <div align="center">
   <img src="chive-logo-full.png" alt="Chive Logo" height="120" />
-  <h1>Chive</h1>
   <p><strong>A decentralized, lightweight recipe app built on the AT Protocol.</strong></p>
 </div>
 
